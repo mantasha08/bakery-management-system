@@ -12,3 +12,9 @@ dist/
 
 # Logs
 npm-debug.log*
+
+# Personal documents
+frontend/src/assets/10thMarksheet.jpeg
+frontend/src/assets/10thMarksheet.png
+frontend/src/assets/AdharCardJanvee.jpg
+frontend/src/assets/schrsp3yr.pdf
