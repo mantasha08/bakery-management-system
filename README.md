@@ -123,9 +123,7 @@ Use the local URLs displayed in your terminals to open the frontend and admin da
 - Explore authentication and administrative interfaces.
 - Improve practical experience with React, Node.js, Express, and MongoDB.
 
-## 👩‍💻 Developer
 
-GitHub: [@mantasha08](https://github.com/mantasha08)
 
 ## 📄 License
 
